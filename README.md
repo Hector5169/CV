@@ -1,10 +1,12 @@
 Maquetado en Html, Css
+
 Objetivo:
 
 Implementar conocimientos de Html, CSS
 Se debe desarrollar un sitio web que represente tu CURRICULUM VITAE
 
 Desarrollo:
+
 Se debe usar HTML, CSS
 Debe tener esta información:
 Fotografía
